@@ -1,0 +1,22 @@
+hash: 21774cdd765a49fe883860b0d88a23f6fa69da4100e8a4734c1e4dfe602bb4d6
+updated: 2019-02-15T22:42:46.331907-08:00
+imports:
+- name: github.com/abiosoft/ishell
+  version: 0a6b1640e32638dd433ee7e57ec325a7bdd79561
+- name: github.com/abiosoft/readline
+  version: 155bce2042db95a783081fab225e74dd879055b0
+- name: github.com/fatih/color
+  version: 3f9d52f7176a6927daacff70a3e8d1dc2025c53e
+- name: github.com/flynn-archive/go-shlex
+  version: 3f9db97f856818214da2e1057f8ad84803971cff
+- name: github.com/mattn/go-colorable
+  version: 6cc8b475d4682021d75d2cbe2bc481bec4ce98e5
+- name: github.com/mattn/go-isatty
+  version: 6ca4dbf54d38eea1a992b3c722a76a5d1c4cb25c
+- name: github.com/tarm/serial
+  version: 98f6abe2eb07edd42f6dfa2a934aea469acc29b7
+- name: golang.org/x/sys
+  version: ff2a66f350cefa5c93a634eadb5d25bb60c85a9c
+  subpackages:
+  - unix
+testImports: []

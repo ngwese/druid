@@ -1,0 +1,10 @@
+# glide project dependencies
+vendor/
+
+# executables
+druid
+
+# misc stuff
+.DS_Store
+*.pdf
+*~
